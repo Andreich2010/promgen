@@ -40,7 +40,7 @@ setup(
         'kombu==4.6.3',  # https://github.com/celery/kombu/issues/1063
         'prometheus-client==0.7.0',
         'python-dateutil==2.8.0',
-        'pyyaml==5.1',
+        'pyyaml==5.4',
         'raven==6.10.0',
         'requests==2.22.0',
         'social-auth-app-django >= 2.0.0',
